@@ -180,7 +180,8 @@ if __name__ == "__main__":
 
 
 
-Output:
+# Output:
+
 ![image](https://github.com/user-attachments/assets/7393de51-7d87-4024-bcfb-896cd823cfec)
 
 # RESULT :
